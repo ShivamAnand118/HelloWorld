@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 8AFF-E211
+
+ Directory of C:\Users\test\Desktop\JavaProject1
+
+14-02-2022  05:44    <DIR>          .
+14-02-2022  05:44    <DIR>          ..
+14-02-2022  05:44                 0 a.txt
+14-02-2022  05:23               674 Hello.class
+14-02-2022  05:10               146 Hello.java
+               3 File(s)            820 bytes
+               2 Dir(s)  187,001,126,912 bytes free
